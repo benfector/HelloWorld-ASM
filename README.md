@@ -38,8 +38,7 @@
 
 ```sh
 # clone o repositorio
-git clone https://github.com/benfector/
-HelloWorld-ASM.git
+git clone https://github.com/benfector/HelloWorld-ASM.git
 # entre na pasta
 cd HelloWorld-ASM/
 ```
