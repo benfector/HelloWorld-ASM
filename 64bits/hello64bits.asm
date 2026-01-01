@@ -16,7 +16,7 @@ _start:
 
 	;exit(0)
 	mov rax, 60	; numero da syscall: 60 = exit
-	xor rdi, rbx	; codigo de saida
+	mov rdi, 0	; codigo de saida
 	;mov rdi, 0
 	syscall
 
